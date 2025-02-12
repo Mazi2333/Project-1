@@ -3,12 +3,12 @@ Repo for Udacity training project
 
 Libraries used and why:
 
+**1.pandas;**
 
-1.** pandas;**
 
-
-**Function: **
+**Function:**
 pandas is a powerful data manipulation and analysis library. It provides data structures like DataFrames, which are essential for handling and analyzing structured data.
+
 **Usage in Analysis:**
 Loading data from CSV files.
 Handling missing data.
@@ -23,7 +23,7 @@ matplotlib is a plotting library used for creating static, interactive, and anim
 Creating various types of plots (e.g., bar plots, line plots, histograms) to visualize data trends and distributions.
 Customizing plot aesthetics (e.g., titles, labels, colours).
 
-3. seaborn
+**3. seaborn;**
 
    
 **Function:**
