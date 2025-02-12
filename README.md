@@ -20,6 +20,10 @@ Examining how customer reviews vary across different neighbourhoods can highligh
 **Operational Efficiency:**
 Understanding booking patterns and occupancy rates can help hosts manage their properties more efficiently. This includes optimizing availability, managing maintenance schedules, and planning for peak periods.
 
+However, the analysis aimed looked at the following questions: 
+1. What are the busiest times of the year for Airbnb bookings in Seattle?
+2. How do customer reviews vary across different neighbourhoods in Seattle?
+3. How does pricing fluctuate across the different Top30 neighbourhoods during this period of time?
 
 # Libraries used and why:
 
