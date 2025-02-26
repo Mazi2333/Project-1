@@ -84,6 +84,9 @@ In this CSV there are reviews left by guests for each listing. It includes the r
 •	Slight price increase just before the busiest periods to encourage early bookings.
 •	Overall pricing remains stable throughout the year to maintain high occupancy rates and guest satisfaction.
 
+# Medium Blog Post
+Please see my rticle on this analysis here: https://medium.com/@mcmolebatsi/seattle-airbnb-market-demand-and-trends-54fcd0ebe66a
+
 •	**General Insights:**
 •	Seattle's Airbnb market is characterized by high standards of hospitality.
 •	Strategic pricing and a strong focus on guest satisfaction are evident.
