@@ -69,3 +69,23 @@ This file provides daily availability and pricing information for each listing. 
 
 **reviews.csv:**
 In this CSV there are reviews left by guests for each listing. It includes the review ID, listing ID, date of the review, reviewer ID, reviewer name, and the review comments.
+
+
+# Insights 
+•	**Busiest Times for Bookings:**
+•	January, July, and August are the busiest months.
+•	Influenced by New Year's celebrations, Independence Day festivities, and the end of summer.
+
+•	**Customer Reviews:**
+•	Higher average ratings in top 30 neighborhoods indicate high guest satisfaction.
+•	Lower-rated neighborhoods still maintain commendable standards but offer improvement opportunities.
+
+•	**Pricing Trends:**
+•	Slight price increase just before the busiest periods to encourage early bookings.
+•	Overall pricing remains stable throughout the year to maintain high occupancy rates and guest satisfaction.
+
+•	**General Insights:**
+•	Seattle's Airbnb market is characterized by high standards of hospitality.
+•	Strategic pricing and a strong focus on guest satisfaction are evident.
+•	Hosts can use these insights to enhance their listings and attract more bookings.
+•	Guests can find the best neighborhoods and times to visit Seattle based on these trends.
